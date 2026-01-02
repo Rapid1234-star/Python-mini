@@ -6,7 +6,7 @@ import pygame
 def set_alarm(alarm_time):
     print(f"\n⏰ Alarm set for {alarm_time}\n")
 
-    sound_file = "treachery.mp3"  # Ensure this file exists
+    sound_file = "By_Myself.mp3"  # Ensure this file exists
     pygame.mixer.init()
 
     while True:
